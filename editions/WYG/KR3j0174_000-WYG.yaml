@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR3j0174/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部十
+  hash: sha256:6558828ce7672044657017b2bb9c6172233a999f18551baa91b8fd0e67ea1b4b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3j0174_WYG_000-1a, image: WYG0872/WYG0872-0031a.png}
+body:
+  text: 長物志目録雜家類四雜品之屬卷一室廬卷二花木卷三水石卷四禽魚卷五書畵卷六几榻卷七器具卷八位置卷九衣飾卷十舟車卷十一蔬果卷十二香茗臣等謹按長物志十二卷明文震亨撰震亨字啓美長洲人崇禎中官武英殿中書舎人以善琴供奉是編分室廬花木水石禽魚書畫几榻器具位置衣飾舟車蔬果香茗十二類其曰長物蓋取世説中王恭語也所論皆閒適㳺戲之事纎悉畢具明季山人墨客多傳是術著書問世累牘盈萹大抵皆瑣細不足録而震亨家世以書畫擅名耳濡目染較他家稍為雅馴其言収藏賞鑑諸法亦頗有條理蓋本於趙希鵠洞天清録董其昌筠軒清閟録之類而畧變其體例其源亦出於宋人故存之以偹襍家之一種焉乾隆四十二年五月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀
+  hash: sha256:8cc1f8cc64bac7c1c96ea89fbb3874f44da8c17c7bfe34f89430df0e02f84dae
+metadata:
+  title: 長物志
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:26:15.986656'
+  juan_title: 目錄
+  source:
+    repository: kanripo
+    path: KR3j0174/KR3j0174_000.txt
+hash: sha256:bccf915f12049fd200cc34ba1a78309018b96df07438147826209a2c2ce3e52e
